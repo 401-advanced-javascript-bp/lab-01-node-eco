@@ -3,7 +3,7 @@
 
 ## Project Name
 
-### Author: Student/Group Name
+### Author: Rebecca Peterson
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
